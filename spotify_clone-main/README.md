@@ -5,6 +5,14 @@ A modern and fully functional Spotify clone built with Flutter. This app leverag
 ![Flutter](https://img.shields.io/badge/Flutter-3.4.3+-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?logo=dart)
 ![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)
+![License](https://img.shields.io/badge/License-Educational-blue)
+
+## 🚀 Quick Links
+
+- 📖 [Quick Start Guide](QUICKSTART.md) - Get started in 5 minutes
+- 🤝 [Contributing Guidelines](CONTRIBUTING.md) - How to contribute
+- 💻 [Development Guide](DEVELOPMENT.md) - Detailed development docs
+- 📋 [Code of Conduct](CODE_OF_CONDUCT.md) - Community guidelines
 
 ## 📱 Features
 
